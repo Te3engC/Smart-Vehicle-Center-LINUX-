@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+
+        <file alias="views/DashView.qml">qml/views/DashView.qml</file>
+        <file alias="views/MapView.qml">qml/views/MapView.qml</file>
+        <file alias="views/SettingView.qml">qml/views/SettingView.qml</file>
+
+        <file alias="components/GaugeItem.qml">qml/components/GaugeItem.qml</file>
+    </qresource>
+</RCC>
